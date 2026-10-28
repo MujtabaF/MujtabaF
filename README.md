@@ -20,7 +20,7 @@
 
 ```python
 mujtaba = {
-    "role"     : "Co-Founder & AI Engineer @ Aevion Technologies",
+    "role"     : "Co-Founder & AI Engineer @ Aveion Technologies",
     "education": "BSc Computer Science @ Simon Fraser University",
     "location" : "Vancouver, BC 🇨🇦",
     "focus"    : ["AI/ML", "Full-Stack", "Embedded Systems"],
@@ -29,7 +29,7 @@ mujtaba = {
 }
 ```
 
-- 🔭 Currently building **AI-powered enterprise tools** at [Aevion Technologies](https://mujtabafatah.netlify.app/)
+- 🔭 Currently building **AI-powered enterprise tools** at [Aveion Technologies](https://aveiontechnologies.com/)
 - 🧠 Researching **deep learning pipelines** and **agentic AI workflows**
 - 🌱 Exploring **LLMs**, **reinforcement learning**, and **real-time embedded systems**
 - 🏆 Hackathon winner with a track record of shipping under pressure
